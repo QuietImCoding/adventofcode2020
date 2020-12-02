@@ -24,7 +24,7 @@ Lets try out this little advent calendar thing. Would it be crazy to do a differ
 - [ ] JavaScript (Node?)
 - [ ] ArkScript
 - [ ] ABS
-- [ ] Gravity
+- [ ] Julia
 - [ ] nim
 - [ ] Lua
 - [ ] BASIC
