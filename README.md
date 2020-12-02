@@ -26,9 +26,9 @@ Lets try out this little advent calendar thing. Would it be crazy to do a differ
 - [ ] ABS
 - [ ] Gravity
 - [ ] nim
-- [ ] SmallTalk
+- [ ] Lua
 - [ ] BASIC
 - [ ] Kotlin
-- [ ] AssemblyScript
+- [ ] Zig
 
 
