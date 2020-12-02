@@ -22,10 +22,14 @@ Lets try out this little advent calendar thing. Would it be crazy to do a differ
 - [ ] Scala
 - [ ] Clojure
 - [ ] JavaScript (Node?)
-- [ ] PHP
+- [ ] ArkScript
 - [ ] ABS
 - [ ] Gravity
 - [ ] nim
+- [ ] SmallTalk
+- [ ] BASIC
+- [ ] Pascal
 
-+ 4 more?
+
++ 1 more?
 
