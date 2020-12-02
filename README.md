@@ -28,8 +28,7 @@ Lets try out this little advent calendar thing. Would it be crazy to do a differ
 - [ ] nim
 - [ ] SmallTalk
 - [ ] BASIC
-- [ ] Pascal
+- [ ] Kotlin
+- [ ] AssemblyScript
 
-
-+ 1 more?
 
