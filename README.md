@@ -7,7 +7,7 @@ Lets try out this little advent calendar thing. Would it be crazy to do a differ
 
 - [x] Python - Day 1
 - [x] C - Day 2
-- [ ] R
+- [x] R
 - [ ] Rust
 - [ ] Go
 - [ ] Lisp
