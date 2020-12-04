@@ -7,22 +7,16 @@ Lets try out this little advent calendar thing. Would it be crazy to do a differ
 
 - [x] Python - Day 1
 - [x] C - Day 2
-- [x] R
+- [x] R - Day 3
 - [ ] Rust
-- [ ] Go
-- [ ] Lisp
-- [ ] Perl
-- [ ] C#
-- [ ] Erlang
-- [ ] Haskell
-- [ ] Java
 - [ ] Powershell
-- [ ] Bash
-- [ ] Ruby
 - [ ] Scala
 - [ ] Clojure
 - [ ] JavaScript (Node?)
 - [ ] ArkScript
+- [ ] Go
+- [ ] Haskell
+- [ ] Java
 - [ ] ABS
 - [ ] Julia
 - [ ] nim
@@ -30,5 +24,12 @@ Lets try out this little advent calendar thing. Would it be crazy to do a differ
 - [ ] BASIC
 - [ ] Kotlin
 - [ ] Zig
+- [ ] Lisp
+- [ ] Perl
+- [ ] C#
+- [ ] Bash
+- [ ] Ruby
+- [ ] Erlang
+
 
 
